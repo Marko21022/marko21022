@@ -27,5 +27,5 @@ I am a Serbian Designer / Developer focusing mainly on frontend programiing such
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0FFFD5&center=true&vCenter=true&width=435&lines=Designing+with+passion...;Building+with+purpose...;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0FFFD5&center=true&vCenter=true&width=435&lines=Designing+with+passion...;Building+with+purpose;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
