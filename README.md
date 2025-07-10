@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Marko 👋</h1>
+<h1 align="center">Hi, I'm Marko <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"></h1>
 <p align="center">
   🎨 Designer &nbsp;•&nbsp; 💻 Programmer &nbsp;•&nbsp; 🌐 Web Developer
 </p>
@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍💻 About Me
-
+I am a Serbian Designer / Developer focusing mainly on frontend programiing such as HTML and CSS.
 
 ---
 
