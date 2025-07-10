@@ -22,7 +22,7 @@ I am a Serbian Designer / Developer focusing mainly on frontend programiing such
 
 - 💬 Discord: `@marko21022`
 - 🌐 Website: [marko21022.com](https://marko21022.com)
-- ✉ Mail: [marko@marko21022.com](https://mailto:marko@marko21022.com)
+- ✉ Mail: `marko@marko21022.com`
 - 
 ---
 
