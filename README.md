@@ -7,18 +7,13 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍🎓 I'm a 14-year-old developer and designer passionate about crafting smooth, professional digital experiences.
-- 🧱 I love building custom UIs, clean animations, and polished user flows.
-- ⚡ I code **Discord bots**, **interactive websites**, **Electron apps**, and even **game utilities**.
-- 🎮 I run and support projects like **Washington State Roleplay (WSRP)** for Roblox ER:LC, building full-stack solutions around it.
-- 🌐 I self-host most of my projects using **Nginx** + **Cloudflare Tunnel** for secure public access.
 
 ---
 
 ## 🛠️ Languages & Tools I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,tailwind,nginx,figma,github" />
+  <img src="https://skillicons.dev/icons?i=vsc,html,css,figma" />
 </p>
 
 - 🔹 HTML, CSS, Tailwind, JavaScript
